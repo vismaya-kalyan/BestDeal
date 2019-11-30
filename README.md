@@ -1,9 +1,13 @@
 # BestDeal
 
 1.Paste BestDeal file in Tomcat webapps folder
+
 2.Navigate to the class file folder BestDeal\WEB-INF\classes
+
 3.Run the java files javac *.java
+
 4.Start MySQL Server
+
 5.Run the following command in mysql
 
 create database bestdealdatabase;
@@ -61,4 +65,5 @@ and to see inside collection
 db.productReviews.find()
 
 7. Sart the tomcat server
-8. go to browser and type http://localhost/BestDea/l
+
+8. go to browser and type http://localhost/BestDeal/
