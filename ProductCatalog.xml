@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+    <TvCatalog>
+        <tv id="Sony EX720">
+            <name>Sony EX720</name>
+            <price>859.99</price>
+            <image>Sony EX720.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </tv>
+        <tv id="Sony EX650">
+            <name>Sony EX650</name>
+            <price>659.99</price>
+            <image>Sony EX650.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </tv>
+
+        <tv id="Samsung 8k">
+            <name>Samsung 8k</name>
+            <price>999.99</price>
+            <image>Samsung 8k.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </tv>
+        <tv id="Samsung 4k">
+            <name>Samsung 4k</name>
+            <price>489.99</price>
+            <image>Samsung 4k.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>Old</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </tv>
+
+        <tv id="Panasonic">
+            <name>Panasonic</name>
+            <price>399.99</price>
+            <image>Panasonic.jpg</image>
+            <manufacturer>Panasonic</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </tv>
+    </TvCatalog>
+    <SoundSystemCatalog>
+        <soundsystem id="Sony BOSE">
+            <name>Sony BOSE</name>
+            <price>799.99</price>
+            <image>Sony BOSE.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </soundsystem>
+        <soundsystem id="Sony DJ">
+            <name>Sony DJ</name>
+            <price>549.99</price>
+            <image>Sony DJ.jpg</image>
+            <manufacturer>Sony</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </soundsystem>
+        <soundsystem id="JBL Pulse">
+            <name>JBL Pulse</name>
+            <price>199.99</price>
+            <image>JBL Pulse.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </soundsystem>
+        <soundsystem id="JBL Boombox">
+            <name>JBL Boombox</name>
+            <price>99.99</price>
+            <image>JBL Boombox.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>Old</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </soundsystem>
+    </SoundSystemCatalog>
+    <PhoneCatalog>
+        <phone id="IPhone 11">
+            <name>IPhone 11</name>
+            <price>999.99</price>
+            <image>IPhone 11.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </phone>
+        <phone id="IPhone 10">
+            <name>IPhone 10</name>
+            <price>899.99</price>
+            <image>IPhone 10.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </phone>
+        <phone id="Samsung j7">
+            <name>Samsung j7</name>
+            <price>249.99</price>
+            <image>Samsung j7.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </phone>
+        <phone id="Samsung 10">
+            <name>Samsung 10</name>
+            <price>849.99</price>
+            <image>Samsung 10.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </phone>
+        <phone id="One Plus 7">
+            <name>One Plus 7</name>
+            <price>879.99</price>
+            <image>One Plus 7.jpg</image>
+            <manufacturer>One Plus</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </phone>
+    </PhoneCatalog>
+    <LaptopCatalog>
+        <laptop id="MacBook Pro">
+            <name>MacBook Pro</name>
+            <price>2879.99</price>
+            <image>MacBook Pro.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+            <accessories>
+                <accessory>a1</accessory>
+                <accessory>a2</accessory>
+                <accessory>a3</accessory>
+                <accessory>a4</accessory>
+            </accessories>
+        </laptop>
+        <laptop id="MacBook Air">
+            <name>MacBook Air</name>
+            <price>2879.99</price>
+            <image>MacBook Air.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+            <accessories>
+                <accessory>a5</accessory>
+                <accessory>a6</accessory>
+            </accessories>
+
+        </laptop>
+        <laptop id="Dell Xps">
+            <name>Dell Xps</name>
+            <price>1599.99</price>
+            <image>Dell Xps.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+            <accessories>
+                <accessory>d1</accessory>
+                <accessory>d2</accessory>
+                <accessory>d3</accessory>
+            </accessories>
+        </laptop>
+        <laptop id="Lenovo 330S">
+            <name>Lenovo 330S</name>
+            <price>899.99</price>
+            <image>Nitro.jpg</image>
+            <manufacturer>Acer</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+            <accessories>
+                <accessory>ac1</accessory>
+            </accessories>
+
+
+        </laptop>
+        <laptop id="Lenovo Yoga">
+            <name>Lenovo Yoga</name>
+            <price>529.99</price>
+            <image>Acer Chromebook.jpg</image>
+            <manufacturer>Acer</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+            <accessories>
+                <accessory>ac2</accessory>
+            </accessories>
+
+        </laptop>
+    </LaptopCatalog>
+    <VoiceAssistantCatalog>
+        <voiceassistant id="Google Home">
+            <name>Google Home</name>
+            <price>120.99</price>
+            <image>Google Home.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </voiceassistant>
+        <voiceassistant id="Google Mini">
+            <name>Google Mini</name>
+            <price>30.99</price>
+            <image>Google Mini.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </voiceassistant>
+        <voiceassistant id="dot">
+            <name>Alexa dot</name>
+            <price>30.99</price>
+            <image>dot.jpg</image>
+            <manufacturer>Alexa</manufacturer>
+            <condition>Old</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </voiceassistant>
+        <voiceassistant id="echo">
+            <name>Alexa echo</name>
+            <price>80.99</price>
+            <image>echo.jpg</image>
+            <manufacturer>Alexa</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </voiceassistant>
+        <voiceassistant id="HomePod">
+            <name>HomePod</name>
+            <price>150.99</price>
+            <image>HomePod.jpg</image>
+            <manufacturer>Siri</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </voiceassistant>
+    </VoiceAssistantCatalog>
+
+    <FitnessWatchCatalog>
+        <fitnesswatch id="Fitbit Surge">
+            <name>Fitbit Surge</name>
+            <price>600.99</price>
+            <image>Fitbit Surge.jpg</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </fitnesswatch>
+        <fitnesswatch id="Fitbit Charge">
+            <name>Fitbit Charge</name>
+            <price>450.99</price>
+            <image>Fitbit Charge.jpg</image>
+            <manufacturer>Fitbit</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+
+        </fitnesswatch>
+        <fitnesswatch id="Mi Band 3">
+            <name>Mi Band 3</name>
+            <price>250.99</price>
+            <image>Mi Band 3.jpg</image>
+            <manufacturer>Xiaomi</manufacturer>
+            <condition>Old</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>no</rebate>
+        </fitnesswatch>
+        <fitnesswatch id="Band3Pro">
+            <name>Band 3 Pro</name>
+            <price>299.99</price>
+            <image>Band3Pro.jpg</image>
+            <manufacturer>Huawei</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </fitnesswatch>
+    </FitnessWatchCatalog>
+
+    <SmartWatchCatalog>
+        <smartwatch id="Apple Watch 5">
+            <name>Apple Watch 5</name>
+            <price>599.99</price>
+            <image>Apple Watch 5.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </smartwatch>
+        <smartwatch id="Apple Watch 4">
+            <name>Apple Watch 4</name>
+            <price>499.99</price>
+            <image>Apple Watch 4.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </smartwatch>
+        <smartwatch id="Smart Fossil">
+            <name>Smart Fossil</name>
+            <price>459.99</price>
+            <image>Smart Fossil.jpg</image>
+            <manufacturer>Fossil</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </smartwatch>
+        <smartwatch id="Sam watch">
+            <name>Sam watch</name>
+            <price>529.99</price>
+            <image>Samsung Galaxy.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </smartwatch>
+        <smartwatch id="Huawei2">
+            <name>Huawei2</name>
+            <price>150.99</price>
+            <image>Huawei2.jpg</image>
+            <manufacturer>Huawei</manufacturer>
+            <condition>Old</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </smartwatch>
+    </SmartWatchCatalog>
+
+    <HeadphoneCatalog>
+        <headphone id="jbl E55BT">
+            <name>jbl E55BT</name>
+            <price>386.99</price>
+            <image>jbl E55BT.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </headphone>
+        <headphone id="jbl run">
+            <name>jbl run</name>
+            <price>95.99</price>
+            <image>jbl run.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </headphone>
+        <headphone id="jbl endurance">
+            <name>jbl endurance</name>
+            <price>149.99</price>
+            <image>jbl endurance.jpg</image>
+            <manufacturer>JBL</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </headphone>
+        <headphone id="Sennhieiser HD">
+            <name>Sennhieiser HD</name>
+            <price>200.99</price>
+            <image>Sennhieiser HD.jpg</image>
+            <manufacturer>Sennhieiser</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </headphone>
+        <headphone id="Sennhieiser M">
+            <name>Sennhieiser M</name>
+            <price>300.99</price>
+            <image>Sennhieiser M.jpg</image>
+            <manufacturer>Sennhieiser</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </headphone>
+    </HeadphoneCatalog>
+    <WirelessPlanCatalog>
+        <wirelessplan id="cricket basic">
+            <name>cricket Basic </name>
+            <price>60.99</price>
+            <image>cricket1.jpg</image>
+            <manufacturer>Basic</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </wirelessplan>
+        <wirelessplan id="rcn basic">
+            <name>RCN Basic </name>
+            <price>63.99</price>
+            <image>rcn1.jpg</image>
+            <manufacturer>Basic</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </wirelessplan>
+        <wirelessplan id="cricket Premium">
+            <name>cricket Premium</name>
+            <price>99.99</price>
+            <image>cricket2.jpg</image>
+            <manufacturer>Premium</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </wirelessplan>
+        <wirelessplan id="rcn Premium">
+            <name>RCN Premium</name>
+            <price>119.99</price>
+            <image>rcn2.jpg</image>
+            <manufacturer>Premium</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </wirelessplan>
+        <wirelessplan id="atandt Ultimate">
+            <name>AT and T Ultimate </name>
+            <price>189.99</price>
+            <image>atandt.jpg</image>
+            <manufacturer>Ultimate</manufacturer>
+            <condition>New</condition>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </wirelessplan>
+    </WirelessPlanCatalog>
+
+
+    <AccessoryCatalog>
+        <accessory id="a1">
+            <name>airpods</name>
+            <price>200.99</price>
+            <image>airpods.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>40.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </accessory>
+        <accessory id="a2">
+            <name>charger stand</name>
+            <price>100.99</price>
+            <image>chargerstand.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>4.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="a3">
+            <name>keyboard</name>
+            <price>150.99</price>
+            <image>keyboard.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>8.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="a4">
+            <name>mouse</name>
+            <price>399.99</price>
+            <image>mouse.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>14.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="a5">
+            <name>pen</name>
+            <price>100</price>
+            <image>pen.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="a6">
+            <name>hdmi</name>
+            <price>29.99</price>
+            <image>hdmi.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>3.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="d1">
+            <name>dell charger</name>
+            <price>49.99</price>
+            <image>dell_charger.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>4.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="d2">
+            <name>dell mouse</name>
+            <price>53.99</price>
+            <image>dell_mouse.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>1.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="d3">
+            <name>dell sleeve</name>
+            <price>19.99</price>
+            <image>dell_sleeve.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <quantity>5</quantity>
+            <sale>no</sale>
+            <rebate>no</rebate>
+        </accessory>
+        <accessory id="ac1">
+            <name>acer bag</name>
+            <price>39.99</price>
+            <image>acer_bag.jpg</image>
+            <manufacturer>Acer</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+        <accessory id="ac2">
+            <name>acer bag with lock</name>
+            <price>45.99</price>
+            <image>acer_bag.jpg</image>
+            <manufacturer>Acer</manufacturer>
+            <condition>New</condition>
+            <discount>0.0</discount>
+            <quantity>5</quantity>
+            <sale>yes</sale>
+            <rebate>yes</rebate>
+        </accessory>
+    </AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>
